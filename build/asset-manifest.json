@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1621af0e.css",
+    "main.js": "/static/js/main.b2b32593.js",
+    "static/media/bruschetta1.jpg": "/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
+    "static/media/salad.jpg": "/static/media/salad.00b1567f5a694e5c3945.jpg",
+    "static/media/creme.jpg": "/static/media/creme.3a9eaace5be031d2d7a0.jpg",
+    "static/media/gourmet.jpg": "/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
+    "static/media/logo.jpg": "/static/media/logo.7aa41df0270b68cbabda.jpg",
+    "index.html": "/index.html",
+    "main.1621af0e.css.map": "/static/css/main.1621af0e.css.map",
+    "main.b2b32593.js.map": "/static/js/main.b2b32593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1621af0e.css",
+    "static/js/main.b2b32593.js"
+  ]
+}
